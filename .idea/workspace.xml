@@ -1,12 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AIAssistantCustomInstructionsStorage">
+    <option name="instructions">
+      <map>
+        <entry key="AIAssistant.VCS.GenerateCommitMessage">
+          <value>
+            <AIAssistantStoredInstruction>
+              <option name="actionId" value="AIAssistant.VCS.GenerateCommitMessage" />
+              <option name="content" value="add readme" />
+            </AIAssistantStoredInstruction>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b54a59fc-120a-40b1-9860-bcc9183cf3cc" name="Changes" comment="Add initial project setup and main script logic&#10;&#10;This commit introduces the initial project setup by adding configuration files for PyCharm, including inspection profiles and workspace settings. Additionally, it includes the main.py script with basic functionality, such as weather data retrieval and a visual representation of a map that alerts user when conditions require attention.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="b54a59fc-120a-40b1-9860-bcc9183cf3cc" name="Changes" comment="Add README file with project description in Russian&#10;&#10;This commit introduces a new README.md file for the GARDI project, providing a description of the system designed for garden monitoring and agricultural management using weather data." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -88,12 +100,24 @@
       <option name="project" value="LOCAL" />
       <updated>1733743444828</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Add README file with project description in Russian&#10;&#10;This commit introduces a new README.md file for the GARDI project, providing a description of the system designed for garden monitoring and agricultural management using weather data.">
+      <option name="closed" value="true" />
+      <created>1733744418561</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1733744418561</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add initial project setup and main script logic&#10;&#10;This commit introduces the initial project setup by adding configuration files for PyCharm, including inspection profiles and workspace settings. Additionally, it includes the main.py script with basic functionality, such as weather data retrieval and a visual representation of a map that alerts user when conditions require attention." />
-    <option name="LAST_COMMIT_MESSAGE" value="Add initial project setup and main script logic&#10;&#10;This commit introduces the initial project setup by adding configuration files for PyCharm, including inspection profiles and workspace settings. Additionally, it includes the main.py script with basic functionality, such as weather data retrieval and a visual representation of a map that alerts user when conditions require attention." />
+    <MESSAGE value="Update workspace: Add initial project setup&#10;&#10;This update includes configuration files for PyCharm, addressing inspection profiles and workspace settings. It also incorporates the main.py script, empowering it with basic functionalities like weather data retrieval and alerting visual maps to indicate crucial conditions." />
+    <MESSAGE value="Update workspace.xml with initial project setup details&#10;&#10;This update modifies the workspace.xml to include metadata about the initial project setup, such as PyCharm configuration, inspection profiles, and workspace settings. Additionally, it describes the main script functionality, which encompasses weather data retrieval and an alert system for critical conditions." />
+    <MESSAGE value="Add initial project setup and main script logic&#10;&#10;This commit updates the PyCharm workspace.xml to include inspection profiles and workspace settings for project initialization. It also brings in the main.py script which handles weather data retrieval and displays a map for user alerts." />
+    <MESSAGE value="Add README file with project description in Russian&#10;&#10;This commit introduces a new README.md file for the GARDI project, providing a description of the system designed for garden monitoring and agricultural management using weather data." />
+    <option name="LAST_COMMIT_MESSAGE" value="Add README file with project description in Russian&#10;&#10;This commit introduces a new README.md file for the GARDI project, providing a description of the system designed for garden monitoring and agricultural management using weather data." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

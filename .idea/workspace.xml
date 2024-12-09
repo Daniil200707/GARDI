@@ -4,15 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b54a59fc-120a-40b1-9860-bcc9183cf3cc" name="Changes" comment="">
-      <changelist_data name="daniil" email="" automatic="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/AI_pet.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    <list default="true" id="b54a59fc-120a-40b1-9860-bcc9183cf3cc" name="Changes" comment="Add initial project setup and main script logic&#10;&#10;This commit introduces the initial project setup by adding configuration files for PyCharm, including inspection profiles and workspace settings. Additionally, it includes the main.py script with basic functionality, such as weather data retrieval and a visual representation of a map that alerts user when conditions require attention.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,11 +22,25 @@
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
+        <option value="Даниил &lt;daniilparhin522@gmail.com&gt;" />
         <option value="daniil" />
       </list>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SIGN_OFF_COMMIT" value="true" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Daniil200707"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Daniil200707/GARDI.git",
+    "accountId": "e3bfb62b-b49f-42be-b108-bcb953f4d981"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
@@ -73,10 +80,20 @@
       <option name="presentableId" value="Default" />
       <updated>1732813435881</updated>
     </task>
+    <task id="LOCAL-00001" summary="Add initial project setup and main script logic&#10;&#10;This commit introduces the initial project setup by adding configuration files for PyCharm, including inspection profiles and workspace settings. Additionally, it includes the main.py script with basic functionality, such as weather data retrieval and a visual representation of a map that alerts user when conditions require attention.">
+      <option name="closed" value="true" />
+      <created>1733743444828</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1733743444828</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="Add initial project setup and main script logic&#10;&#10;This commit introduces the initial project setup by adding configuration files for PyCharm, including inspection profiles and workspace settings. Additionally, it includes the main.py script with basic functionality, such as weather data retrieval and a visual representation of a map that alerts user when conditions require attention." />
+    <option name="LAST_COMMIT_MESSAGE" value="Add initial project setup and main script logic&#10;&#10;This commit introduces the initial project setup by adding configuration files for PyCharm, including inspection profiles and workspace settings. Additionally, it includes the main.py script with basic functionality, such as weather data retrieval and a visual representation of a map that alerts user when conditions require attention." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
